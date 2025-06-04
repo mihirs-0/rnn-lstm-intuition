@@ -1,5 +1,3 @@
-# rnn-lstm-intuition
-
 # From MLPs to Attention
 
 I have been curious about the emergence of causality in LLMs. The emergence of causal understanding (or not) in LLMs is a wonder to me, and in an effort to develop an intuition, I will begin from the beginning: The Multi-layer Perceptron, and build upwards from there. 
